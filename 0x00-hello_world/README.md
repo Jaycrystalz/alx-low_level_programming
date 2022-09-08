@@ -1,1 +1,1 @@
-prints a file followed by a new line
+prints a file follwed by a new line
