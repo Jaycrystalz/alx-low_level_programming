@@ -1,1 +1,1 @@
-compiles a C file and creates an executable
+prints a file followed by a new line
