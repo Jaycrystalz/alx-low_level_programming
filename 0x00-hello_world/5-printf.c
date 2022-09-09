@@ -1,11 +1,9 @@
 #include <studio.h>
 
 /**
- * main - print the string in the put function
- *
- * Description: using the main function
- * this program prints "programming is like building a multilingual puzzle
- * Return: 0
+ * main - Entry point
+ * Description: C program that prints with printf function.
+ * Return: returns 0
 */
 
 int main(void)
