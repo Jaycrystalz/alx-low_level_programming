@@ -2,7 +2,7 @@
 
 /**
  * main - entry point
- * Description: A progrom that prints a text followed by a new line to a standard error
+ * Description: A progrom that prints a text to the standard error
  * Return: returns 1
 */
 
