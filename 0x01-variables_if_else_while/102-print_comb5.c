@@ -4,7 +4,7 @@
  * main - print possible combination of two 2-digit
  * Description: a program to print 2 2-combo numbers
  * Return: returns 0
-*/
+ */
 int main(void)
 {
 	int a = 0, b;
@@ -21,7 +21,7 @@ int main(void)
 			putchar((b / 10) + 48);
 			putchar((b % 10) + 48);
 
-			if (a != 98 || b != 98)
+			if (a != 98 || b != 99)
 			{
 				putchar(',');
 				putchar(' ');
